@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.103317
+#+DATE: 2015-09-28 22:55:59.149427
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_003-0545a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說十地經》卷第三¶
+《佛說十地經》卷第三¶
 ¶
 大唐于闐三藏沙門尸羅達摩¶
 於北庭龍興寺譯¶
 
-3菩薩發光地
-:PROPERTIES:
-:head: 菩薩發光地第三
-:END:
-¶
+菩薩發光地第三¶
 
 #+BEGIN_VERSE
 「　佛子聞此地行已，
@@ -328,11 +323,7 @@
 
 菩薩發光地第三竟¶
 
-4菩薩焰慧地
-:PROPERTIES:
-:head: 菩薩焰慧地第四
-:END:
-¶
+菩薩焰慧地第四¶
 
 #+BEGIN_VERSE
 「　佛子聞此廣大行，

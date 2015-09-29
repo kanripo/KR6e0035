@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.231861
+#+DATE: 2015-09-28 22:55:59.777072
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_008-0567a> ¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《佛說十地經》卷第八¶
+《佛說十地經》卷第八¶
 ¶
 大唐于闐三藏沙門尸羅達摩¶
 於北庭龍興寺譯¶
 
-10菩薩法雲地
-:PROPERTIES:
-:head: 菩薩法雲地第十之一
-:END:
-¶
+菩薩法雲地第十之一¶
 
 #+BEGIN_VERSE
 「　淨居天眾那庾多，

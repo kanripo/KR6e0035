@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.209145
+#+DATE: 2015-09-28 22:56:00.247547
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_007-0563a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《佛說十地經》卷第七¶
+《佛說十地經》卷第七¶
 ¶
 大唐于闐三藏沙門尸羅達摩¶
 於北庭龍興寺譯¶
 
-9菩薩善慧地
-:PROPERTIES:
-:head: 菩薩善慧地第九
-:END:
-¶
+菩薩善慧地第九¶
 
 #+BEGIN_VERSE
 「　已說菩薩第八地，
@@ -284,7 +279,7 @@
 勝，唯除諸佛及受灌頂上地菩薩，其餘菩薩¶
 威德光明，無能與比。而此菩薩處於法座，隨¶
 自樂故，以一音詞演說妙法，能令大眾皆得¶
-解了。或隨自欲，以種種言詞音支剖析，令諸¶
+解了。或隨自欲，以種種言詞音支剖析，今諸¶
 大眾皆得開悟。或隨自欲放大光明，從此演¶
 出無量法門。或隨自欲，從其身上一一毛孔¶
 皆演法音。或隨自欲，於此三千大千世界所¶

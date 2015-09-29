@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.262403
+#+DATE: 2015-09-28 22:56:00.302786
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_009-0570c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《佛說十地經》卷第九¶
+《佛說十地經》卷第九¶
 ¶
 大唐于闐三藏沙門尸羅達摩¶
 於北庭龍興寺譯¶
 
-:PROPERTIES:
-:head: 菩薩法雲地之餘
-:END:
-¶
+菩薩法雲地之餘¶
 
 爾時，會中一類菩薩、天、龍、藥叉、健達縛、阿¶
 素洛、揭路茶、緊捺洛、牟呼洛伽、釋、梵、護世、摩¶

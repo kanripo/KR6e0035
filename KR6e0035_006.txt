@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.184579
+#+DATE: 2015-09-28 22:56:00.224426
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_006-0559a> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《佛說十地經》卷第六¶
+《佛說十地經》卷第六¶
 ¶
 大唐于闐三藏沙門尸羅達摩¶
 於北庭龍興寺譯¶
 
-8菩薩不動地
-:PROPERTIES:
-:head: 菩薩不動地第八
-:END:
-¶
+菩薩不動地第八¶
 
 #+BEGIN_VERSE
 「　是時天王及天眾，

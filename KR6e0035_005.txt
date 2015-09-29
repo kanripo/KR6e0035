@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.159437
+#+DATE: 2015-09-28 22:56:00.194513
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_005-0554b> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《佛說十地經》卷第五¶
+《佛說十地經》卷第五¶
 ¶
 大唐于闐三藏尸羅達摩¶
 於北庭龍興寺譯¶
 
-:PROPERTIES:
-:head: 菩薩現前地之餘
-:END:
-¶
+菩薩現前地之餘¶
 
 「唯諸佛子！菩薩住此現前地中，不壞意樂轉¶
 更圓滿；決定意樂、賢善意樂、甚深意樂、不退¶
@@ -198,11 +194,7 @@
 
 菩薩現前地第六竟¶
 
-7菩薩遠行地
-:PROPERTIES:
-:head: 菩薩遠行地第七
-:END:
-¶
+菩薩遠行地第七¶
 
 #+BEGIN_VERSE
 「　是時大眾心歡喜，

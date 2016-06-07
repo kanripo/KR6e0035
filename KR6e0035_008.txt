@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.231861
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:41
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_008-0567a> ¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《佛說十地經》卷第八¶
+《佛說十地經》卷第八¶
 ¶
 大唐于闐三藏沙門尸羅達摩¶
 於北庭龍興寺譯¶
 
-10菩薩法雲地
-:PROPERTIES:
-:head: 菩薩法雲地第十之一
-:END:
-¶
+* 菩薩法雲地第十之一¶
 
 #+BEGIN_VERSE
 「　淨居天眾那庾多，
@@ -89,9 +84,9 @@
 　從第九地入第十，
 　所有功德諸行相，¶
 　及以神通變化事，
-　願為慧者今宣說。」
+　願為慧者今宣說。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，金剛藏菩薩告解脫月菩薩言：「佛子！若¶
 是菩薩以於如是無量所知能觀察慧，乃至¶

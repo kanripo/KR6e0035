@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:58.067464
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:41
 #+TITLE: 佛說十地經
 #+PROPERTY: CBETA_ID T10n0287
 #+PROPERTY: ID KR6e0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 287
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0035_T_000-0535a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0035_T_002-0539c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說十地經》卷第二¶
+《佛說十地經》卷第二¶
 ¶
 大唐于闐三藏沙門尸羅達摩¶
 於北庭龍興寺譯¶
 
-:PROPERTIES:
-:head: 菩薩極喜地之餘
-:END:
-¶
+* 菩薩極喜地之餘¶
 
 「復次，菩薩如是已發諸大誓願，得堪能心并¶
 柔軟心及調柔心，成就淨信。能信諸佛正等¶
@@ -374,15 +370,11 @@
 　菩薩最勝道，
 　利益諸群生；¶
 　如是初地法，
-　我今已說竟。」
+　我今已說竟。」」
 #+END_VERSE
-」¶
-
-2菩薩離垢地
-:PROPERTIES:
-:head: 菩薩離垢地第二
-:END:
 ¶
+
+* 菩薩離垢地第二¶
 
 #+BEGIN_VERSE
 「　諸菩薩聞此，
@@ -404,9 +396,9 @@
 　即請金剛藏：
 　「大慧願演說，¶
 　佛子皆樂聞，
-　所住第二地。」
+　所住第二地。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，金剛藏菩薩告眾菩薩言：「唯諸佛子！若¶
 是菩薩善瑩初地欲求第二菩薩智地，當起¶
@@ -663,9 +655,9 @@
 　一切世間利益者，
 　所修菩薩最勝行；¶
 　如是第二地功德，
-　為諸佛子已開演。」
+　為諸佛子已開演。」」
 #+END_VERSE
-」¶
+¶
 
 菩薩離垢地第二竟¶
 《佛說十地經》卷第二
